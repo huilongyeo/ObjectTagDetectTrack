@@ -36,7 +36,7 @@
    1. 如有，則在畫面框選
    2. 如無，則使用預先訓練的模型進行偵測
       1. 偵測成功，則標記物件ID，並在畫面框選
-4. 框選帶有staff_tag 標簽的物件
+4. 框選帶有tag 標簽的物件
 
 ![deteck workflow](detect_wrokflow.png)
 
